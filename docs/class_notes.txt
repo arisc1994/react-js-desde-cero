@@ -1,0 +1,11 @@
+
+Error 1: presento este error cuando quiero cargar los archivos a un repo existente
+
+acahuana@LAPTOP-8187IJ2P:~/rick-morty$ git push -u origin master
+Username for 'https://github.com': arisc1994
+Password for 'https://arisc1994@github.com':
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/arisc1994/react-js-desde-cero.git/'
+
+Error 2: enlace back-home se ven en la pagina home
